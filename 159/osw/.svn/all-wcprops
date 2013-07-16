@@ -1,0 +1,1193 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw
+END
+ISteamApps004.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamApps004.h
+END
+IClientDepotBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientDepotBuilder.h
+END
+ISteam2Bridge002.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteam2Bridge002.h
+END
+ISteamUser005.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser005.h
+END
+ISteamRemoteStorage003.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamRemoteStorage003.h
+END
+ISteam004.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteam004.h
+END
+MatchmakingServersCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/MatchmakingServersCommon.h
+END
+ISteamMatchmaking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking001.h
+END
+ISteamClient007.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamClient007.h
+END
+IClientUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientUtils.h
+END
+TSteamDiscountQualifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamDiscountQualifier.h
+END
+ISteamUser009.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser009.h
+END
+ISteamMatchmaking005.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking005.h
+END
+GameServerItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/GameServerItemsCommon.h
+END
+TSteamSubscriptionDiscount.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSubscriptionDiscount.h
+END
+EPersonalQuestion.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EPersonalQuestion.h
+END
+MasterServerUpdaterCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/MasterServerUpdaterCommon.h
+END
+IClientAppManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientAppManager.h
+END
+ISteamGameServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer002.h
+END
+ISteamUtils003.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUtils003.h
+END
+ISteamGameServer006.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer006.h
+END
+RemoteStorageCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/RemoteStorageCommon.h
+END
+IClientConfigStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientConfigStore.h
+END
+ISteamMasterServerUpdater001.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMasterServerUpdater001.h
+END
+IClientMatchmaking.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientMatchmaking.h
+END
+Open Steamworks.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/Open%20Steamworks.vcproj
+END
+IClientNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientNetworking.h
+END
+Steamworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/Steamworks.h
+END
+ISteamGameCoordinator001.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameCoordinator001.h
+END
+ISteamUser010.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser010.h
+END
+SteamclientAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/SteamclientAPI.h
+END
+ISteamBilling002.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamBilling002.h
+END
+BridgeCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/BridgeCommon.h
+END
+IClientMatchmakingServers.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientMatchmakingServers.h
+END
+ISteamUser014.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser014.h
+END
+ISteamUserItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserItems004.h
+END
+Steamclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/Steamclient.h
+END
+Steam.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/Steam.h
+END
+UtilsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/UtilsCommon.h
+END
+ISteamNetworking001.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamNetworking001.h
+END
+CSteamAPIContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/CSteamAPIContext.h
+END
+ISteamNetworking005.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamNetworking005.h
+END
+TSteamUpdateStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamUpdateStats.h
+END
+ISteamFriends003.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamFriends003.h
+END
+TSteamAppLaunchOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamAppLaunchOption.h
+END
+ISteamFriends007.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamFriends007.h
+END
+ISteamUserStats004.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserStats004.h
+END
+ISteamApps001.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamApps001.h
+END
+UserCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/UserCommon.h
+END
+ISteamUserStats008.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUserStats008.h
+END
+ISteamGameServerItems004.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServerItems004.h
+END
+CSteamID.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/CSteamID.h
+END
+TSteamGlobalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamGlobalUserID.h
+END
+IClientGameStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientGameStats.h
+END
+TSteamSubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSubscription.h
+END
+FriendsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/FriendsCommon.h
+END
+TSteamAppVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamAppVersion.h
+END
+ISteamUser006.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser006.h
+END
+ISteamRemoteStorage004.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamRemoteStorage004.h
+END
+ISteam005.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteam005.h
+END
+ISteamMatchmaking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking002.h
+END
+ISteamClient008.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamClient008.h
+END
+TSteamAppDependencyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamAppDependencyInfo.h
+END
+ContentServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ContentServerCommon.h
+END
+ISteamMatchmaking006.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking006.h
+END
+ISteamGameStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameStats001.h
+END
+AppsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/AppsCommon.h
+END
+ENotificationPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ENotificationPosition.h
+END
+TSteamProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamProgress.h
+END
+ISteamContentServer001.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamContentServer001.h
+END
+ISteamGameServer003.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer003.h
+END
+ISteamUtils004.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUtils004.h
+END
+ESteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamError.h
+END
+ISteamGameServer007.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer007.h
+END
+AppTicketCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/AppTicketCommon.h
+END
+GameStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/GameStatsCommon.h
+END
+TSteamPaymentCardInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamPaymentCardInfo.h
+END
+ISteamUser011.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser011.h
+END
+ISteamUserItems001.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserItems001.h
+END
+TSteamOfflineStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamOfflineStatus.h
+END
+UserStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/UserStatsCommon.h
+END
+ESteamServerType.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamServerType.h
+END
+ISteamUser015.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUser015.h
+END
+IClientGameServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientGameServer.h
+END
+ESteamBufferMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamBufferMethod.h
+END
+IClientContentServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientContentServer.h
+END
+ISteamNetworking002.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamNetworking002.h
+END
+TSteamElemInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamElemInfo.h
+END
+FriendGameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/FriendGameInfo.h
+END
+TSteamExternalBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamExternalBillingInfo.h
+END
+ISteamMatchmakingServers001.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmakingServers001.h
+END
+ISteamFriends004.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamFriends004.h
+END
+ISteamUserStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserStats001.h
+END
+EResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EResult.h
+END
+ISteamFriends008.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamFriends008.h
+END
+ISteamUserStats005.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUserStats005.h
+END
+ISteamApps002.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamApps002.h
+END
+CGameID.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/CGameID.h
+END
+ISteamUserStats009.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUserStats009.h
+END
+UserItemsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/UserItemsCommon.h
+END
+string_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/string_t.h
+END
+MatchmakingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/MatchmakingCommon.h
+END
+NetworkingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/NetworkingCommon.h
+END
+ISteamGameServerStats001.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServerStats001.h
+END
+SteamAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/SteamAPI.h
+END
+ISteamRemoteStorage001.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamRemoteStorage001.h
+END
+IClientUserStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientUserStats.h
+END
+ESteamNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamNotify.h
+END
+ISteamUser007.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser007.h
+END
+ISteam006.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteam006.h
+END
+ISteamMatchmaking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking003.h
+END
+GameServerCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/GameServerCommon.h
+END
+ISteamClient009.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamClient009.h
+END
+ISteamMatchmaking007.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking007.h
+END
+IClientEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientEngine.h
+END
+ISteamUtils001.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUtils001.h
+END
+ESteamFindFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamFindFilter.h
+END
+ISteamContentServer002.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamContentServer002.h
+END
+IClientUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientUser.h
+END
+ISteamGameServer004.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer004.h
+END
+IClientGameServerStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientGameServerStats.h
+END
+IClientBilling.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientBilling.h
+END
+ISteamUtils005.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUtils005.h
+END
+ESteamAppUpdateStatsQueryType.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamAppUpdateStatsQueryType.h
+END
+ISteamGameServer008.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer008.h
+END
+SteamSalt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/SteamSalt.h
+END
+ISteamClient010.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamClient010.h
+END
+IClientFriends.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientFriends.h
+END
+ISteamUser012.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser012.h
+END
+servernetadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/servernetadr.h
+END
+EUniverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EUniverse.h
+END
+ISteamUserItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserItems002.h
+END
+ISteamUser016.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUser016.h
+END
+ISteamNetworking003.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamNetworking003.h
+END
+TSteamPaymentCardReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamPaymentCardReceiptInfo.h
+END
+ISteamFriends001.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamFriends001.h
+END
+ELobbyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ELobbyType.h
+END
+IClientMasterServerUpdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientMasterServerUpdater.h
+END
+TSteamSubscriptionBillingInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSubscriptionBillingInfo.h
+END
+TSteamSubscriptionStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSubscriptionStats.h
+END
+ISteamMatchmakingServers002.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmakingServers002.h
+END
+ISteamFriends005.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamFriends005.h
+END
+ISteamUserStats002.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserStats002.h
+END
+ISteamFriends009.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamFriends009.h
+END
+ISteamUserStats006.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUserStats006.h
+END
+ISteamGameServerItems002.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServerItems002.h
+END
+ESteamSeekMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamSeekMethod.h
+END
+IClientHTTP.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientHTTP.h
+END
+POSIXLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/POSIXLibrary.h
+END
+ISteamApps003.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamApps003.h
+END
+BillingCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/BillingCommon.h
+END
+SteamTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/SteamTypes.h
+END
+ESteamSubscriptionBillingInfoType.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamSubscriptionBillingInfoType.h
+END
+ISteam2Bridge001.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteam2Bridge001.h
+END
+ISteamUser004.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser004.h
+END
+ISteamRemoteStorage002.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamRemoteStorage002.h
+END
+ISteam003.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteam003.h
+END
+ISteamClient006.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamClient006.h
+END
+ESteamPaymentCardType.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamPaymentCardType.h
+END
+ISteamAppTicket001.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamAppTicket001.h
+END
+ISteamUser008.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser008.h
+END
+ISteamMatchmaking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking004.h
+END
+TSteamPrepurchaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamPrepurchaseInfo.h
+END
+TSteamAppStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamAppStats.h
+END
+ISteamMatchmaking008.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamMatchmaking008.h
+END
+EChatMemberStateChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EChatMemberStateChange.h
+END
+ISteamUtils002.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUtils002.h
+END
+GameCoordinatorCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/GameCoordinatorCommon.h
+END
+TSteamPrepurchaseReceiptInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamPrepurchaseReceiptInfo.h
+END
+ISteamGameServer005.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer005.h
+END
+ISteamGameServer009.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServer009.h
+END
+TSteamApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamApp.h
+END
+CCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/CCallback.h
+END
+TSteamSplitLocalUserID.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSplitLocalUserID.h
+END
+EAccountType.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EAccountType.h
+END
+ISteamBilling001.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamBilling001.h
+END
+ISteamUser013.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUser013.h
+END
+MatchMakingKeyValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/MatchMakingKeyValuePair.h
+END
+ISteamUserItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserItems003.h
+END
+TSteamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamError.h
+END
+IClientApps.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientApps.h
+END
+ISteamNetworking004.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamNetworking004.h
+END
+TSteamSubscriptionReceipt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/TSteamSubscriptionReceipt.h
+END
+ISteamFriends002.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamFriends002.h
+END
+gameserveritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/gameserveritem.h
+END
+EServerMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/EServerMode.h
+END
+ISteamFriends006.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamFriends006.h
+END
+ISteamUserStats003.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamUserStats003.h
+END
+ISteamGameServer010.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamGameServer010.h
+END
+IClientGameCoordinator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/IClientGameCoordinator.h
+END
+ESteamSubscriptionStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ESteamSubscriptionStatus.h
+END
+ClientCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ClientCommon.h
+END
+ISteamUserStats007.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/ISteamUserStats007.h
+END
+Win32Library.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/Win32Library.h
+END
+ISteamGameServerItems003.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alteriwnet/!svn/ver/22/client/trunk/osw/ISteamGameServerItems003.h
+END
+GameServerStatsCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/GameServerStatsCommon.h
+END
+IClientRemoteStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/IClientRemoteStorage.h
+END
+Interface_OSW.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alteriwnet/!svn/ver/59/client/trunk/osw/Interface_OSW.h
+END
